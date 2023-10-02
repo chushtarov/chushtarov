@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! I'm Adam </h1>
 
-<h4 align="center"> Я - frontend разработчик, занимаюсь созданием интерактивных и увлекательных веб-приложений, делая ваши идеи видимыми и функциональными."</h4>
+<h4 align="center"> I am a frontend developer dedicated to creating interactive and engaging web applications, making your ideas visible and functional."</h4>
 
 <p align="center">
  <img width="600" src="./github-snake.svg" alt="snake"/>
@@ -12,7 +12,7 @@
 </a>
 </div>
 
-### My works:
+<h4>My works:</h4>
 
 <b>➖ Pomodoro Trecker</b>
 <br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd><kbd>React router</kbd></b>
@@ -32,7 +32,7 @@
   </p>
 </details>
 
-### Использую следующие технологии:
+<h4>I use the following technologies:</h4>
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=JavaScript&logoColor=white"/>   
