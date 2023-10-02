@@ -1,15 +1,27 @@
-<h1 align="center">👋 Hello! I'm Adam </h1>
+<h1 align="center"> Hello! I'm Adam </h1>
 
 <h4 align="center"> Я - frontend разработчик, занимаюсь созданием интерактивных и увлекательных веб-приложений, делая ваши идеи видимыми и функциональными."</h4>
 
 <p align="center">
  <img width="600" src="./github-snake.svg" alt="snake"/>
 </p>
-
+<div align="center">
 <h4 align="center">How to contact me:</h4>
   <a  align="center" href="https://t.me/adammdew">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
+</div>
+
+### My works:
+
+<b>➖ Pomodoro Trecker</b>
+<br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd><kbd>React router</kbd></b>
+<br><b>-[Repository](https://github.com/chushtarov/pomodoro-front)</b>
+<br/>
+
+<b>➖ WEB CRM </b>
+<br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>React router</kbd><kbd>Local Storage</kbd></b>
+<br><b>-[Repository](https://github.com/chushtarov/web-crm-front)</b>
 
 <details align="left">
   <summary><h2><b>GitHub stats</b></h2></summary>
