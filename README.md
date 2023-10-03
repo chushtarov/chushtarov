@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! I'm Adam </h1>
 
-<h4 align="center"> I am a frontend developer dedicated to creating interactive and engaging web applications, making your ideas visible and functional."</h4>
+<h4 align="center"> I am a frontend developer dedicated to creating interactive and engaging web applications, making your ideas visible and functional.</h4>
 
 <p align="center">
  <img width="600" src="./github-snake.svg" alt="snake"/>
