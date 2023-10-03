@@ -25,10 +25,10 @@
 
 <details align="left">
   <summary><h2><b>GitHub stats</b></h2></summary>
-  <p background-color="black" color="white">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chushtarov&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chushtarov&theme=dracula&layout=compact&hide_border=true&bg_color=000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=chushtarov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=chushtarov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=000000" />
   </p>
 </details>
 
